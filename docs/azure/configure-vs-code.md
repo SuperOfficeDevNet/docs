@@ -25,9 +25,10 @@ The [Azure Tools Extension Pack](https://marketplace.visualstudio.com/items?item
 
 To install the extension from Visual Studio Code:
 
-1. Press <kbd>Ctrl+Shift+X</kbd> to open the **Extensions** window.
-1. Search for the *Azure Tools* extension.
-1. Select the **Install** button.
+1. Press <kbd>Ctrl+Shift+X</kbd> to
+2.  open the **Extensions** window.
+3. Search for the *Azure Tools* extension.
+4. Select the **Install** button.
 
 ![Screenshot of the Visual Studio Code showing extensions panel searching for the Azure Tools extension pack](./media/visual-studio-code-azure-tools.png)
 
